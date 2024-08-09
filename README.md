@@ -7,11 +7,16 @@
    
 <h2>Certifications</h2>
 
-- [My Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
+- [Google Cybersecurity Professional Certificate](xxx)
+- [CompTIA Security+](xxx)
+- [CompTIA+](xxx)
+- [CompTIA Network+](xxx)
+- [Python Course](xxx) 
+- [SQL](xxx)
+  
 <h2>📺 Popular YouTube Videos</h2>
 
-- [My Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [My Active Directory Home Lab](XXX)
 
 
 <h2> 🤳 Connect with me:</h2>
